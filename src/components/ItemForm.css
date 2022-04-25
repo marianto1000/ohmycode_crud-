@@ -1,0 +1,11 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+.form select {
+    padding: 0.5em;
+}
+.form button {
+    margin-top: 1em;
+}

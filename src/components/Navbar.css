@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+.navbar > a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #014D48;
+}
+.navbar .d-flex {
+    align-items: center;
+}
+
+.navbar .d-flex > h5 {
+    margin-bottom: 0;
+}
+.navbar-brand {
+    color: #4F4A4A;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+.navbar .btn {
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    color: #4F4A4A;
+}
+.mt-5 .btn {
+    background: #017069;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 10%);
+    border-radius: 50px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    border: none;
+}

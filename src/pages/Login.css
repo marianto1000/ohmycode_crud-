@@ -1,0 +1,10 @@
+.buttonArea {
+    display: flex;
+    gap: 1em;
+    flex-direction: column;
+}
+
+.btnLink{
+    background: none;
+    border: none;
+}

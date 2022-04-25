@@ -1,0 +1,19 @@
+.list-group-item {
+    flex-direction: column;
+}
+.list-group-item div {
+    display: flex;
+    gap: 1em;
+}
+.list-group-item  a {
+    color: black;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+.list-group-item span {
+    font-size: 1.3em;
+}
+.list-group-item button {
+    font-size: 1.3em;
+}
+

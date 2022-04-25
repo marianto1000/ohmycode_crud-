@@ -1,0 +1,5 @@
+.list-group-item {
+    display: flex;
+    gap: 1em;
+    justify-content: space-between;
+}
