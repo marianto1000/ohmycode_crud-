@@ -14,7 +14,7 @@ const CreateItem = () => {
     return (
         <div className="mt-5">
             <h3 className="text-center">Create new task</h3>
-            <ItemForm onFormSubmut={onFormSubmit} />
+            <ItemForm onFormSubmit={onFormSubmit} />
         </div>
     )
 }
